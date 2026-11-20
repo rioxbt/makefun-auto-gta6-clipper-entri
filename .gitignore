@@ -1,0 +1,8 @@
+# The rendered clip is a working file, not part of the entry's repository: the entry is the video on
+# YouTube and the repository's job is to name it. Keeping the clip out of git keeps the repo small and
+# keeps Rockstar's footage out of it.
+clip/
+out/
+node_modules/
+.DS_Store
+*.log
